@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  
+      <div>新增标签</div>
     <router-view/>
   </div>
 </template>
