@@ -1,6 +1,7 @@
 <template>
   <div id="app">
       <div>新增标签</div>
+      <div>第二次修改</div>
     <router-view/>
   </div>
 </template>
